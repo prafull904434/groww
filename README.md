@@ -55,33 +55,33 @@ Check out the live project here: [FinBoard Live](https://groww-obih53dir-prafull
 ```
 finboard/
 ├── src/
-│   ├── app/                 # Next.js app directory
-│   │   ├── layout.tsx       # Root layout with providers
-│   │   ├── page.tsx         # Main page
-│   │   └── globals.css      # Global styles
-│   ├── components/          # React components
-│   │   ├── Dashboard.tsx    # Main dashboard component
+│   ├── app/           
+│   │   ├── layout.tsx       
+│   │   ├── page.tsx        
+│   │   └── globals.css     
+│   ├── components/         
+│   │   ├── Dashboard.tsx   
 │   │   ├── AddWidgetModal.tsx
 │   │   ├── WidgetConfig.tsx
-│   │   └── widgets/         # Widget components
+│   │   └── widgets/         
 │   │       ├── ChartWidget.tsx
 │   │       ├── TableWidget.tsx
 │   │       └── CardWidget.tsx
-│   ├── contexts/            # React contexts
+│   ├── contexts/           
 │   │   └── ThemeContext.tsx
-│   ├── hooks/               # Custom React hooks
+│   ├── hooks/              
 │   │   └── useStockData.ts
-│   ├── services/            # API services
+│   ├── services/           
 │   │   └── stockApi.ts
-│   ├── store/               # Redux store
+│   ├── store/              
 │   │   ├── store.ts
 │   │   └── widgetsSlice.ts
-│   ├── types/               # TypeScript types
+│   ├── types/             
 │   │   └── widget.ts
-│   └── utils/               # Utility functions
+│   └── utils/              
 │       └── formatters.ts
-├── public/                  # Static assets
-├── .env.local               # Environment variables (create this)
+├── public/                 
+├── .env.local              
 └── package.json
 ```
 
