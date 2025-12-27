@@ -8,6 +8,9 @@ The project mainly focuses on frontend architecture, UI/UX, and basic API integr
 - Frontend-focused implementation
 - Uses public stock APIs
 - Emphasis on usability and clean code rather than advanced infrastructure
+  
+## Deployment
+Check out the live project here: [FinBoard Live](https://groww-obih53dir-prafull-singhs-projects-a78482a6.vercel.app/)
 
 ## Features
 ### Dashboard
