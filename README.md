@@ -1,6 +1,6 @@
 ### FinBoard
 
-FinBoard is a simple finance dashboard built in one week as a technical assignment. The idea was to create a clean and flexible dashboard where users can view stock market data using configurable widgets.
+FinBoard is a simple finance dashboard. The idea was to create a clean and flexible dashboard where users can view stock market data using configurable widgets.
 
 The project mainly focuses on frontend architecture, UI/UX, and basic API integration.
 
@@ -99,8 +99,9 @@ finboard/
 - Node.js 18+
 
 ### Setup
-```bash
-git clone https://github.com/prafull904434/FinBoard.git
+```
+git clone https://github.com/prafull904434/groww.git
 cd finboard
 npm install
+```
 
